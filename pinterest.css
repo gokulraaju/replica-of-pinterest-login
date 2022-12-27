@@ -1,0 +1,105 @@
+body{
+    background: linear-gradient(to right,skyblue,white,grey);
+}
+.logo{
+    background-image: url(image/pinterestLogo.jpg);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 135px;
+    top: 20px;
+}
+.textinput{
+    display: block;
+    padding-left: 10px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 60px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-color: grey;
+}
+
+.pinterestForm{
+   margin-left: 600px;
+   margin-top: 150px;
+   margin-right: 600px;
+   background-color: white;
+   border-radius: 30px;
+}
+.LoginToPinterest{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+}
+.input{
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.forgotPswd{
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    font-weight: 600;
+}
+.login{
+    text-align: center;
+}
+.loginbtn{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(249, 40, 40);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+
+}
+.or{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+
+}
+.facebook{
+    text-align: center;
+}
+.gmail{
+    text-align: center;
+}
+.facebookbtn{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(10, 141, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    border: none;
+    margin-bottom: 10px;
+}
+.gmailbtn{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(251, 251, 251);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(5, 5, 5);
+    margin-bottom: 30px;
+}
